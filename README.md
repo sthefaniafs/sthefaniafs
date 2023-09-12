@@ -23,5 +23,7 @@ Here are some ideas to get you started:
   
  <div>
    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefaniafs&layout=donut&theme=transparent)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthefaniafs&layout=compact&theme=transparent)](https://github.com/sthefaniafs/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sthefaniafs&theme=transparent&repo=Raspberry-Pi-Pico-Micropython)](https://github.com/sthefaniafs/Raspberry-Pi-Pico-Micropython/github-readme-stats)
+  
 </div>
