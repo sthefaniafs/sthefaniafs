@@ -1,7 +1,7 @@
 ### Olá, eu sou Sthefania 👋
 
 - 🔭 Atualmente estou trabalhando com sistemas embarcados
-- 🌱 E estou aprendendo trabalhar com o microcontrolador ESP32 
+- 🌱 E estou aprendendo a desenvolver com o microcontrolador ESP32 
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
