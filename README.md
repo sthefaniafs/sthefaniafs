@@ -1,7 +1,7 @@
 # Olá, eu sou Sthefania 👋
 
-- 🔭 Atualmente estou trabalhando com sistemas embarcados
-- 🌱 Atualmente estou aprendendo processamento digital de imagens 
+- 🔭 Trabalho com sistemas embarcados
+- 🌱 Atualmente estou aprendendo Ml aplicado a microcontroladores 
 
 ## Sei programar em
 <div style="display: inline_block">
