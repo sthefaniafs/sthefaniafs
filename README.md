@@ -1,6 +1,6 @@
 # Olá, eu sou Sthefania 👋
 
-- Sou Bacharel em Ciências e Tecnologia, com conclusão em Engenharia Mecatrônica em andamento. Trabalhei em projetos com placas da ATMEGA, Raspberry Pi, ESP32 e STM32, utilizando Micropython, C e C++. Tenho experiência em ambientes de desenvolvimento como VsCode, ESP-IDF, PlatformIO, Arduino e Thonny IDE, além de habilidades em versionamento de código com o Github. Meu foco está no desenvolvimento de firmware e IoT.
+- Sou Bacharel em Ciências e Tecnologia e estou concluindo o curso em Engenharia Mecatrônica. Trabalhei em projetos com placas da ATMEGA, Raspberry Pi, ESP32 e STM32, utilizando Micropython, C e C++. Tenho experiência em ambientes de desenvolvimento como VsCode, ESP-IDF, PlatformIO, Arduino e Thonny IDE, além de habilidades em versionamento de código com o Github. Meu foco está no desenvolvimento de firmware e IoT.
 
 - Sou uma boa escritora e comunicadora, devido a minha experiência como articulista em um site de tecnologia. Além de ter habilidades de leitura e tradução em inglês, desenvolvidas através da minha experiência como tradutora.
 -  Atualmente estou aprendendo ML aplicado a microcontroladores 
